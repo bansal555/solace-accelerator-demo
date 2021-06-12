@@ -129,7 +129,7 @@ bridges:
   remoteDeliverToOnePriority: "p1"
   tlsCipherSuiteList: "default"
   
-  action: POST
+  action: DELETE
   
 #remoteMsgVPN
 remoteMsgVPN:
